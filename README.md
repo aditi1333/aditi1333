@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditi1333
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 📫 How to reach me ...
 
 <!---
